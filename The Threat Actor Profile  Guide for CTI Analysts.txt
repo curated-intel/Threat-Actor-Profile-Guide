@@ -18,8 +18,7 @@ more refined methodology and even different types of threat actor profiles tailo
 for a specific stakeholder type.
 
 Executive Summary 
-Introduction: “As of $Month 20XX, the Cyber Threat Intelligence team has researched 
-the $ThreatActor”
+Introduction: “As of $Month 20XX, the Cyber Threat Intelligence team has researched the $ThreatActor”
 • An Executive Summary should ideally be no longer than 10-15 lines (2-3 paragraphs)
 • The main three questions to answer are “What?” “So What?” and “What Now?”
 • Explain the level of threat to the organisation, which includes the following:
